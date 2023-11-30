@@ -26,7 +26,7 @@ Fear/Power cultures are characterized by a dominant fear of the unknown and a re
 > Some countries have this type of culture, such as certain **African countries**, parts of **Latin America (more traditional or rural areas)**, certain **Asian countries**, and **the Middle East**.
 
 ![Global map of culture types](https://github.com/shamhub/islam/blob/main/work_life/global_map_of_culture_types.jpg?raw=true)
-
+                     [Global map of culture types](https://public.tableau.com/app/profile/jayson.georges/viz/GlobalMapofCultureTypesFINAL_1/GlobalMapofCultureTypes?utm_source=substack&utm_medium=email) by Jayson Georges
 
 
 How to work with diverse cultures
