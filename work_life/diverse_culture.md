@@ -42,7 +42,9 @@ Here are the main points from the book:
 7. Disagreeing: Cultures expressing disagreement range from confrontational (more common in cultures like France or Israel, where open disagreement is seen as positive) to avoiding confrontation (like in Japan or Indonesia, where harmony is crucial).
 
 
-![The culture map](https://twitter.com/milan_milanovic/status/1680104505784901632/photo/1)
+
+![The culture map](https://github.com/shamhub/islam/blob/main/work_life/culture_map.jpeg?raw=true)
+
 
 ++++
 
@@ -60,7 +62,7 @@ Understanding diverse leadership styles is critical to successful international 
 As a leader in the global arena, the ability to adapt your style to different cultural contexts can lead to more effective management, smoother interactions, and more tremendous success in a multicultural environment.
 
 
-![Leadership styles around the world](https://twitter.com/alexxubyte/status/1690026551059087360/photo/1)
+![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/leadership_style.jpg?raw=true)
 
 
 ++++
@@ -70,7 +72,7 @@ Dealing with Cultural Debt
 ==========================
 Cultural debt refers to the cultural issues within a team or organization that can hinder productivity, collaboration, and overall success. It accumulates when communication problems, lack of diversity, or toxic behaviors persist.
 
-Addressing cultural debt is essential for building effective teams and achieving long-term success. It fosters a *healthy work environment, promotes open communication, and addresses cultural issues* that impede progress.
+Addressing cultural debt is essential for building effective teams and achieving long-term success. It fosters a **healthy work environment, promotes open communication, and addresses cultural issues** that impede progress.
 
 Here are some examples of cultural debt:
 
@@ -90,7 +92,7 @@ Here are some examples of cultural debt:
 
 8. Lack of Leadership: Train leaders to recognize and address cultural issues. Leadership plays a crucial role in shaping and maintaining a positive culture. Leaders need to know what type of organizational culture they're trying to build, as they have a multiplier effect on the organization.
 
-Making a *deliberate decision* about the kind of organization you want to create from the beginning is the right way to reduce cultural debt.
+Making a **deliberate decision** about the kind of organization you want to create from the beginning is the right way to reduce cultural debt.
 
 
 ++++++++++
