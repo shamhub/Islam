@@ -23,9 +23,10 @@ Fear/Power Cultures
 ===================
 Fear/Power cultures are characterized by a dominant fear of the unknown and a reliance on power dynamics to cope with uncertainties. In these cultures, individuals might seek power or protection from more powerful entities, and those in power often make decisions without much consultation. This translates to a strict hierarchy and centralized decision-making in the business context. Leaders in these settings are often seen as protectors or strong figures, and they must provide clear guidance and a sense of security to their team members.
 
-> Some countries have this type of culture, such as certain African countries, parts of Latin America (more traditional or rural areas), certain Asian countries, and the Middle East.
+> Some countries have this type of culture, such as certain **African countries**, parts of **Latin America (more traditional or rural areas)**, certain **Asian countries**, and **the Middle East**.
 
-+++++
+![Global map of culture types](https://github.com/shamhub/islam/blob/main/work_life/global_map_of_culture_types.jpg?raw=true)
+
 
 
 How to work with diverse cultures
@@ -74,7 +75,6 @@ As a leader in the global arena, the ability to adapt your style to different cu
 ![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/leadership_style.jpg?raw=true)
 
 
-++++
 
 
 Dealing with Cultural Debt
