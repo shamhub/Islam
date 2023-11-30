@@ -71,11 +71,11 @@ Leadership styles around the world
 ==================================
 Understanding diverse leadership styles is critical to successful international collaborations. Richard D. Lewis, in his book "When Cultures Collide," offers a comprehensive guide on how different cultures approach leadership.
 
-1. The Linear-Active Leader (Western Europe, North America): Linear-active leaders, common in Western Europe and North America, are task-oriented and organized and prefer direct communication. They are planners and value logic, efficiency, and punctuality. In these cultures, leadership is often about setting clear goals, providing straightforward feedback, and maintaining a structured approach to business.
+1. **The Linear-Active Leader (Western Europe, North America)**: Linear-active leaders, common in Western Europe and North America, are **task-oriented** and **organized and prefer direct communication**. They are planners and value logic, efficiency, and punctuality. In these cultures, leadership is often about **setting clear goals, providing straightforward feedback**, and maintaining a structured approach to business.
 
-2. The Multi-Active Leader (Latin America, Southern Europe): Conversely, multi-active leaders from Latin America and Southern Europe are more relationship-oriented. They prioritize emotional expression, eloquence, and personal connections. These leaders excel in motivating their teams, communicating persuasively, and are adept at multitasking and adapting to fluid situations.
+2. **The Multi-Active Leader (Latin America, Southern Europe)**: Conversely, multi-active leaders from Latin America and Southern Europe are more relationship-oriented. They **prioritize emotional expression, eloquence, and personal connections**. These leaders excel in motivating their teams, **communicating** persuasively, and are adept at multitasking and adapting to fluid situations.
 
-3. The Reactive Leader (East Asia) Reactive leaders, often found in East Asian cultures, emphasize listening, harmony, and respect. They are contemplative, valuing courtesy and indirect communication to maintain group harmony. Leadership here is about building consensus and showing respect for hierarchy, and it often involves leading from behind.
+3. **The Reactive Leader (East Asia)** Reactive leaders, often found in East Asian cultures, **emphasize listening, harmony, and respect**. They are contemplative, valuing courtesy and **indirect communication** to maintain group harmony. Leadership here is about **building consensus and showing respect for hierarchy**, and it often involves leading from behind.
 
 As a leader in the global arena, the ability to adapt your style to different cultural contexts can lead to more effective management, smoother interactions, and more tremendous success in a multicultural environment.
 
@@ -94,21 +94,21 @@ Addressing cultural debt is essential for building effective teams and achieving
 
 Here are some examples of cultural debt:
 
-1. Communication Gaps: When team members or departments don't communicate effectively, it can lead to misunderstandings and delays. Address this by implementing clear communication channels, regular meetings, and encouraging open dialogue.
+1. **Communication Gaps**: When team members or departments don't communicate effectively, it can lead to misunderstandings and delays. Address this by implementing clear communication channels, regular meetings, and encouraging open dialogue.
 
-2. Lack of Diversity and Inclusion: A lack of diversity can lead to a monolithic culture that stifles creativity and innovation. To tackle this, prioritize diversity and inclusion in your hiring processes and create an inclusive environment where all voices are heard and valued. In meetings, allow most quiet people to talk first, etc.
+2. **Lack of Diversity and Inclusion**: A lack of diversity can lead to a monolithic culture that stifles creativity and innovation. To tackle this, prioritize diversity and inclusion in your hiring processes and create an inclusive environment where all voices are heard and valued. In meetings, allow most quiet people to talk first, etc.
 
-3. Toxic Behaviors: Toxic behaviors such as bullying or harassment can create a hostile work environment. Implement strict anti-harassment policies, provide training on assertive communication, and take swift action when issues arise.
+3. **Toxic Behaviors**: Toxic behaviors such as bullying or harassment can create a hostile work environment. Implement strict anti-harassment policies, provide training on assertive communication, and take swift action when issues arise.
 
-4. Burnout Culture: Overemphasis on productivity at the expense of employee well-being leads to burnout. Policies promoting work-life balance, like flexible working hours or wellness programs, can address this.
+4. **Burnout Culture**: Overemphasis on productivity at the expense of employee well-being leads to burnout. Policies promoting work-life balance, like flexible working hours or wellness programs, can address this.
 
-5. Lack of Empathy: When team members lack empathy for each other's challenges, it can harm collaboration. Promote empathy through team-building exercises, fostering a supportive atmosphere, and encouraging team members to understand each other's perspectives.
+5. **Lack of Empathy**: When team members lack empathy for each other's challenges, it can harm collaboration. Promote empathy through team-building exercises, fostering a supportive atmosphere, and encouraging team members to understand each other's perspectives.
 
-6. Blame Culture: A culture of blame can stifle innovation and risk-taking. Shift the focus from blaming individuals to analyzing systemic issues when problems occur. Promoting a culture of accountability and learning, where mistakes are seen as opportunities for improvement.
+6. **Blame Culture**: A culture of blame can stifle innovation and risk-taking. Shift the focus from blaming individuals to analyzing systemic issues when problems occur. Promoting a culture of accountability and learning, where mistakes are seen as opportunities for improvement.
 
-7. Undervalued Feedback: Not listening to employee feedback can lead to dissatisfaction and disengagement. Implementing regular feedback mechanisms and showing that you act on this feedback can help resolve this.
+7. **Undervalued Feedback**: Not listening to employee feedback can lead to dissatisfaction and disengagement. Implementing regular feedback mechanisms and showing that you act on this feedback can help resolve this.
 
-8. Lack of Leadership: Train leaders to recognize and address cultural issues. Leadership plays a crucial role in shaping and maintaining a positive culture. Leaders need to know what type of organizational culture they're trying to build, as they have a multiplier effect on the organization.
+8. **Lack of Leadership**: Train leaders to recognize and address cultural issues. Leadership plays a crucial role in shaping and maintaining a positive culture. Leaders need to know what type of organizational culture they're trying to build, as they have a multiplier effect on the organization.
 
 Making a **deliberate decision** about the kind of organization you want to create from the beginning is the right way to reduce cultural debt.
 
