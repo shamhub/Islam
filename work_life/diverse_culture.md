@@ -29,6 +29,8 @@ Fear/Power cultures are characterized by a dominant fear of the unknown and a re
                      [Global map of culture types](https://public.tableau.com/app/profile/jayson.georges/viz/GlobalMapofCultureTypesFINAL_1/GlobalMapofCultureTypes?utm_source=substack&utm_medium=email) by Jayson Georges
 
 
+-----------------------
+
 How to work with diverse cultures
 =================================
 You probably started to work in your country with a team where people come from the same cultural background. So, more or less, you've understood others very well. Yet, things become more complicated if you start working in international teams with people from other countries or continents.
@@ -56,7 +58,7 @@ Here are the main points from the book:
 ![The culture map](https://github.com/shamhub/islam/blob/main/work_life/culture_map.jpeg?raw=true)
 
 
-++++
+--------------------
 
 
 Leadership styles around the world
@@ -75,6 +77,7 @@ As a leader in the global arena, the ability to adapt your style to different cu
 ![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/leadership_style.jpg?raw=true)
 
 
+------------------
 
 
 Dealing with Cultural Debt
