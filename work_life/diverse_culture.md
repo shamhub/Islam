@@ -58,6 +58,12 @@ Here are the main points from the book:
 ![The culture map](https://github.com/shamhub/islam/blob/main/work_life/culture_map.jpeg?raw=true)
 
 
+If you want to learn more about it, I recommend reading [Meyers’ book](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507?&linkCode=sl1&tag=milanmilanovi-20&linkId=56fb516c1eea9a40a19c939adf25cb57&language=en_US&ref_=as_li_ss_tl).
+
+![The culture map](https://github.com/shamhub/islam/blob/main/work_life/the_culture_map.jpg?raw=true)
+
+
+
 --------------------
 
 
