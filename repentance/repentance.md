@@ -44,6 +44,7 @@ There are 10 ways for repentance:
 
 
  *Note:Difference between Tawbah & Istighfar:*
+ 
  **Istighfar** is an act that must be done continuously in a Muslim’s life, and this is the main difference between Istighfar and Tawbah, The Muslim has to make Istighfar whether he sinned or not because sometimes the Muslim sins without knowing that he sinned and sometimes he forgets about his previous sins, so Istighfar is considered the Muslim’s weapon against the devil (Al Shaytan) who tries to drag the Son Of Man to hell by making him forgets his sins to accumulate over his shoulders, Also Istighfar opens the door of Allah’s continuous blessings, forgiveness and saves him from devil’s whispering.
 
  **Tawbah** is Repentance to Allah after committing a sin regardless of the kind of that sin and how great it is, asking for Allah’s forgiveness and mercy.
