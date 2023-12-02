@@ -11,8 +11,11 @@ Istighfar
 =========
 Surah-Nuh verse 10 - 12 says:
 
->> ![71:10](https://github.com/shamhub/islam/blob/main/repentance/image.png?raw=true)  And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.
+>> ![71:10](https://github.com/shamhub/islam/blob/main/repentance/image.png?raw=true)  
+   And said, 'Ask forgiveness of your Lord. Indeed, He is ever a Perpetual Forgiver.
 
->> ![71:11](https://github.com/shamhub/islam/blob/main/repentance/image-1.png?raw=true) He will send [rain from] the sky upon you in [continuing] showers
+>> ![71:11](https://github.com/shamhub/islam/blob/main/repentance/image-1.png?raw=true) 
+    He will send [rain from] the sky upon you in [continuing] showers
 
->> ![71:12](https://github.com/shamhub/islam/blob/main/repentance/image-2.png?raw=true) And give you increase in wealth and children and provide for you gardens and provide for you rivers.
+>> ![71:12](https://github.com/shamhub/islam/blob/main/repentance/image-2.png?raw=true) 
+    And give you increase in wealth and children and provide for you gardens and provide for you rivers.
