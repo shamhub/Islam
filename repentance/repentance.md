@@ -50,3 +50,16 @@ There are 10 ways for repentance:
     Allah legislated Tawbah and made it obligatory for every Muslim who believes in Allah at any time and at every time.
 
 
+3)Hasanat
+
+ hasanat (plural hasanat or hasanats) Credit for good deeds, which Allah weighs up against one's bad deeds at the final judgement after death.
+ This is a cleansing act where good deed is a soap and bad deed is dirt
+
+4)
+5)
+6)
+7)
+8)
+9)
+
+Reference: https://www.youtube.com/watch?v=WrpsMYIz__M&t=120s
