@@ -9,8 +9,8 @@ Allah legislated Tawbah and made it obligatory for every Muslim who believes in 
 
 There are 10 ways for repentance:
 
-1. Istighfar:
-============
+1.Istighfar
+===========
 
 Surah-Nuh verse 10 - 12 says:
 
@@ -29,4 +29,7 @@ Surah-Nuh verse 10 - 12 says:
       And give you increase in wealth and children and provide for you gardens and provide for you rivers.
 
 
-Recite 
+Recite أسْتَغْفِرُ اللهَ رَبي مِنْ كُلِ ذَنبٍ وَأتُوبُ إلَيهِ
+
+Transliteration: Astaghfirullah rabbi min kulli zambiyon wa atoobu ilaiyh
+Translation: I ask forgiveness of my sins from Allah who is my Lord and I turn towards Him.
