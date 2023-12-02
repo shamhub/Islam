@@ -33,7 +33,7 @@ There are 10 ways for repentance:
 2)Tawbah
 =========
 
- Surah Al-Imran says:
+ Surah Al-Imran(3:135) says:
 
  ![3:135](https://github.com/shamhub/islam/blob/main/repentance/image-3.png?raw=true)
 
