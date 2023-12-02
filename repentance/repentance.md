@@ -38,7 +38,7 @@ There are 10 ways for repentance:
  ![3:135](https://github.com/shamhub/islam/blob/main/repentance/image-3.png?raw=true)
 
 
- And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah ? - and [who] do not persist in what they have done while they know.
+     And those who, when they commit an immorality or wrong themselves [by transgression], remember Allah and seek forgiveness for their sins - and who can forgive sins except Allah ? - and [who] do not persist in what they have done while they know.
 
  Perform Salat al-tawbah: https://islamqa.info/en/answers/98030/salat-al-tawbah-prayer-of-repentance
 
