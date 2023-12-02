@@ -67,7 +67,7 @@ There are 10 ways for repentance:
 6)Sorrow/calamity/disease in life will forgive their sin
 ========================================================
 
- Allah introduce sorrow/calamity/disease in their life, which allows him to forgive his sin
+ Sometimes, Allah introduce sorrow/calamity/disease as a gift in their life, which allows him to forgive his sin.
 
 
 7)
