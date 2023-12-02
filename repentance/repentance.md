@@ -64,8 +64,8 @@ There are 10 ways for repentance:
  
  Children who pray & perform sadaqah for their parents(who passed away), will let Allah make them grant Jannah
 
-6)Sorrow/calamity/disease in life will clean the sin
-=====================================================
+6)Sorrow/calamity/disease in life will forgive their sin
+========================================================
 
 7)
 8)
