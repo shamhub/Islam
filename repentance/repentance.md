@@ -55,8 +55,8 @@ There are 10 ways for repentance:
  hasanat (plural hasanat or hasanats) Credit for good deeds, which Allah weighs up against one's bad deeds at the final judgement after death.
  This is a cleansing act where, good deed acts as a soap and bad deed is dirt
 
-4)Seek dua of momin
-===================
+4)Seek help for dua from momin
+==============================
 
 5)
 6)
