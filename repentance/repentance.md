@@ -9,7 +9,7 @@ Allah legislated Tawbah and made it obligatory for every Muslim who believes in 
 
 There are 10 ways for repentance:
 
-1) Istighfar
+1)Istighfar
 ============
 
 Surah-Nuh verse 10 - 12 says:
