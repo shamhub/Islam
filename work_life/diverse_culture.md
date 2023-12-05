@@ -82,6 +82,8 @@ As a leader in the global arena, the ability to adapt your style to different cu
 
 ![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/image/leadership_style.jpg?raw=true)
 
+Another cheat sheet:
+
 ![Leadership style](https://github.com/shamhub/islam/blob/main/work_life/image/leadership_styles.jpeg?raw=true)
 
 
