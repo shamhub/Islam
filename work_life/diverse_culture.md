@@ -25,7 +25,7 @@ Fear/Power cultures are characterized by a dominant fear of the unknown and a re
 
 > Some countries have this type of culture, such as certain **African countries**, parts of **Latin America (more traditional or rural areas)**, certain **Asian countries**, and **the Middle East**.
 
-![Global map of culture types](https://github.com/shamhub/islam/blob/main/work_life/global_map_of_culture_types.jpg?raw=true)
+![Global map of culture types](https://github.com/shamhub/islam/blob/main/work_life/image/global_map_of_culture_types.jpg?raw=true)
                      [Global map of culture types](https://public.tableau.com/app/profile/jayson.georges/viz/GlobalMapofCultureTypesFINAL_1/GlobalMapofCultureTypes?utm_source=substack&utm_medium=email) by Jayson Georges
 
 
@@ -55,12 +55,12 @@ Here are the main points from the book:
 
 
 
-![The culture map](https://github.com/shamhub/islam/blob/main/work_life/culture_map.jpeg?raw=true)
+![The culture map](https://github.com/shamhub/islam/blob/main/work_life/image/culture_map.jpeg?raw=true)
 
 
 If you want to learn more about it, I recommend reading [Meyers’ book](https://www.amazon.com/Culture-Map-Breaking-Invisible-Boundaries/dp/1610392507?&linkCode=sl1&tag=milanmilanovi-20&linkId=56fb516c1eea9a40a19c939adf25cb57&language=en_US&ref_=as_li_ss_tl).
 
-![The culture map](https://github.com/shamhub/islam/blob/main/work_life/the_culture_map.jpg?raw=true)
+![The culture map](https://github.com/shamhub/islam/blob/main/work_life/image/the_culture_map.jpg?raw=true)
 
 
 
@@ -80,9 +80,9 @@ Understanding diverse leadership styles is critical to successful international 
 As a leader in the global arena, the ability to adapt your style to different cultural contexts can lead to more effective management, smoother interactions, and more tremendous success in a multicultural environment.
 
 
-![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/leadership_style.jpg?raw=true)
+![Leadership styles around the world](https://github.com/shamhub/islam/blob/main/work_life/image/leadership_style.jpg?raw=true)
 
-![Leadership style](https://github.com/shamhub/islam/blob/main/work_life/leadership_styles.jpeg?raw=true)
+![Leadership style](https://github.com/shamhub/islam/blob/main/work_life/image/leadership_styles.jpeg?raw=true)
 
 
 ------------------
@@ -115,7 +115,7 @@ Here are some examples of cultural debt:
 Making a **deliberate decision** about the kind of organization you want to create from the beginning is the right way to reduce cultural debt.
 
 
-![Cultural_debt](https://github.com/shamhub/islam/blob/main/work_life/cultural_debt.jpg?raw=true)
+![Cultural_debt](https://github.com/shamhub/islam/blob/main/work_life/image/cultural_debt.jpg?raw=true)
 
 
 
