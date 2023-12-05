@@ -117,12 +117,3 @@ Making a **deliberate decision** about the kind of organization you want to crea
 
 ![Cultural_debt](https://github.com/shamhub/islam/blob/main/work_life/image/cultural_debt.jpg?raw=true)
 
-
-
-
-
-
-
-
-
-
