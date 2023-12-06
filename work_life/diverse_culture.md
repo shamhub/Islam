@@ -87,6 +87,12 @@ Another cheat sheet:
 ![Leadership style](https://github.com/shamhub/islam/blob/main/work_life/image/leader_ship_style.png?raw=true)
 
 
+--------------------
+
+Delegate:
+
+![Delegate](https://github.com/shamhub/islam/blob/main/work_life/image/delegate.png?raw=true)
+
 ------------------
 
 
