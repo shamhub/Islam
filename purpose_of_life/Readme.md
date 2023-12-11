@@ -7,3 +7,6 @@ Why are we called a Muslim?
 
 Purpose of life:
     https://www.youtube.com/watch?v=jfTdX1Krq84
+
+Aql:
+    https://www.youtube.com/watch?v=r4aPoyhnSrs
