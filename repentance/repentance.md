@@ -75,3 +75,5 @@ There are 10 ways for repentance:
 9)
 
 Reference: https://www.youtube.com/watch?v=WrpsMYIz__M&t=120s
+            https://www.youtube.com/watch?v=DzeakmZktjA
+            
